@@ -1,0 +1,6 @@
+D:\YandexDisk\Учеба\Практика\Practice--1\Practice 1\Practice 1\bin\Release\Practice 1.exe.config
+D:\YandexDisk\Учеба\Практика\Practice--1\Practice 1\Practice 1\bin\Release\Practice 1.exe
+D:\YandexDisk\Учеба\Практика\Practice--1\Practice 1\Practice 1\bin\Release\Practice 1.pdb
+D:\YandexDisk\Учеба\Практика\Practice--1\Practice 1\Practice 1\obj\Release\Practice 1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Учеба\Практика\Practice--1\Practice 1\Practice 1\obj\Release\Practice 1.exe
+D:\YandexDisk\Учеба\Практика\Practice--1\Practice 1\Practice 1\obj\Release\Practice 1.pdb

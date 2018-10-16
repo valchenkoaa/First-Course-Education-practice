@@ -1,0 +1,6 @@
+D:\YandexDisk\Учеба\Программирование\Практика\InputOutputLib\InputOutputLib\bin\Release\InputOutputLib.dll
+D:\YandexDisk\Учеба\Программирование\Практика\InputOutputLib\InputOutputLib\bin\Release\InputOutputLib.pdb
+D:\YandexDisk\Учеба\Программирование\Практика\InputOutputLib\InputOutputLib\obj\Release\InputOutputLib.csprojAssemblyReference.cache
+D:\YandexDisk\Учеба\Программирование\Практика\InputOutputLib\InputOutputLib\obj\Release\InputOutputLib.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Учеба\Программирование\Практика\InputOutputLib\InputOutputLib\obj\Release\InputOutputLib.dll
+D:\YandexDisk\Учеба\Программирование\Практика\InputOutputLib\InputOutputLib\obj\Release\InputOutputLib.pdb

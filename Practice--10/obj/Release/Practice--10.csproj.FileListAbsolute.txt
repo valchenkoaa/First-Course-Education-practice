@@ -1,0 +1,9 @@
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\bin\Release\Practice--10.exe.config
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\bin\Release\Practice--10.exe
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\bin\Release\Practice--10.pdb
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\bin\Release\InputOutputLib.dll
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\bin\Release\InputOutputLib.pdb
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\obj\Release\Practice--10.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\obj\Release\Practice--10.csproj.CopyComplete
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\obj\Release\Practice--10.exe
+D:\YandexDisk\Учеба\Практика\Practice--10\Practice--10\obj\Release\Practice--10.pdb

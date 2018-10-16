@@ -1,0 +1,10 @@
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\bin\Debug\Practice__6.exe.config
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\bin\Debug\Practice__6.exe
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\bin\Debug\Practice__6.pdb
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\bin\Debug\InputOutputLib.dll
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\bin\Debug\InputOutputLib.pdb
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\obj\Debug\Practice__6.csprojAssemblyReference.cache
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\obj\Debug\Practice__6.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\obj\Debug\Practice__6.csproj.CopyComplete
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\obj\Debug\Practice__6.exe
+D:\YandexDisk\Учеба\Программирование\Практика\Practice--6\Practice__6\obj\Debug\Practice__6.pdb
